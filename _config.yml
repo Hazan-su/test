@@ -3,7 +3,7 @@ title: Test
 email: email@gmail.com
 description: >
   A guide to getting started with Jekyll.
-baseurl: "test"
+baseurl: "/test"
 url: ""
 twitter_username:
 github_username:
